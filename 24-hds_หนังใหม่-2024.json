@@ -4330,5 +4330,325 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Abigail (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/05/Abigail-2024-1.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/fe022f25ad09a5af5380cb7c/4760.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Challengers (2024) ชาเลนเจอร์ส",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/05/Challengers-2024-ชาเลนเจอร์ส.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/361b1f9c486caf441cef3d04/7371.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/b885771199a62075eb431987/7831.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Direnjie (2024) ตี๋เหรินเจี๋ยนักมายากลผู้ยิ่งใหญ่",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/Direnjie-2024-ตี๋เหรินเจี๋ยนักมายากลผู้ยิ่งใหญ่.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/262b4a395ec2e4b77765b75a/8759.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Heart of War Moment (2024) สงครามวัดใจ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/Heart-of-War-Moment-2024-สงครามวัดใจ.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/4f5a283782234de6e70fc0f2/5682.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Maharaj (2024) มหาราช",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/Maharaj-2024-มหาราช.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/75eb7bbc7b9daaad7b61f3d0/9049.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/576391af8c5dd2c13bdf6950/2725.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mallari (2024) มัลลารี ตำนานเชือด โลกสะท้าน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/Mallari-2024-มัลลารี-ตำนานเชือด-โลกสะท้าน.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/28daa41f36d12f4ff213e4ef/1853.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/5bdfa57eee3535ac0889b37d/3179.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Accidental Twins (2024) ฝาแฝดบังเอิญ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/The-Accidental-Twins-2024-ฝาแฝดบังเอิญ.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/5ff4739f7b36ed4ae20ec2ff/6720.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Beekeeper (2024) นรกเรียกพ่อ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/01/The-Beekeeper-2024-นรกเรียกพ่อ.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/7fc607077bfede5fa60a0b64/8038.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/fc66215867d7c031534c2058/6182.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Inside Out 2 (2024) มหัศจรรย์อารมณ์อลเวง 2",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/Inside-Out-2-2024-มหัศจรรย์อารมณ์อลเวง-2.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/6904556cefce727be869705e/2553.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Formed Police Unit FPU (2024) หน่วยพยัคฆ์พิทักษ์ข้ามโลก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/Formed-Police-Unit-FPU-2024-หน่วยพยัคฆ์พิทักษ์ข้ามโลก.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/6bd8e85f0a6c58f75bb0137b/7311.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kleks Academy (2024) โรงเรียนมายา คุณเคล็กซ์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/Kleks-Academy-2024-โรงเรียนมายา-คุณเคล็กซ์.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/dda36d635955666e9db92afa/3571.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/2d5bc3eea69be28e5793465a/4870.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chinatown Chacha (2024) ไชน่าทาวน์ ชะช่า",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/Chinatown-Chacha-2024-ไชน่าทาวน์-ชะช่า.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/11e21dd1fbe9bb00321b3bb7/2625.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Inheritance (2024) มรดกอลเวง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/Inheritance-2024-มรดกอลเวง.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/5698e330da15a766e91dd3ba/6503.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Black Barbie (2024) แบล็ค บาร์บี้",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/Black-Barbie-2024-แบล็ค-บาร์บี้.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/88fddfa6e496ec1365e54bf8/1402.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Big City Greens the Movie Spacecation (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/Big-City-Greens-the-Movie-Spacecation-2024-1.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/117d1cf62f88a333ba25950e/4057.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Shuigui Bride (2024) เจ้าสาวสุดหลอน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/Shuigui-Bride-2024-เจ้าสาวสุดหลอน-1.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/acc60378cb13a187c8abfaf1/5382.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Strange Snake Story in Shangtong Village (2024) เรื่องเล่าขานงูพิศดารหมู่บ้านซ่างถง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/The-Strange-Snake-Story-in-Shangtong-Village-2024-เรื่องเล่าขานงูพิศดารหมู่บ้านซ่างถง-1.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/912a3891bcb5a5727b64d5f6/9658.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jim Henson Idea Man (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/Jim-Henson-Idea-Man-2024.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/43007e610248ba7f6295477b/1901.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Call Me Country Beyoncé & Nashville's Renaissance (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/Call-Me-Country-Beyonce-Nashvilles-Renaissance-2024.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/88663a00519dcc6423beaeff/6169.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Outstanding A Comedy Revolution (2024) ปฏิวัติคอมเมดี้",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/06/Outstanding-A-Comedy-Revolution-2024-ปฏิวัติคอมเมดี้.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/1ce65bd1c2ecf9e62c19c9f0/8962.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
