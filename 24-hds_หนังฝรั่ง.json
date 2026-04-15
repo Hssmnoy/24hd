@@ -2894,5 +2894,329 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Hiram (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Hiram-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/c9ced8554301cdf7ab5b69de/6064.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jesus Revolution (2023)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/07/Jesus-Revolution-2023.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/d6c09c2875585363465443c9/4387.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/3d640ca40c7181e3d18f10ed/3119.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Martyrs (2008) ฝังแค้นรออาฆาต",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Martyrs-2008-ฝังแค้นรออาฆาต.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/00e4f16b8add50a661b565b0/7944.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Hunt For Red October (1990) ล่าตุลาแดง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/The-Hunt-For-Red-October-1990-ล่าตุลาแดง.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/bba8d661839999fe052e4753/7910.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bayo (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Bayo-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/516a9924c05c9e3d732e48c6/6180.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Delusion (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Delusion-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/5f48f7cf2190aeda3eaf9753/8478.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bleeding Tiger Resolution (2025) หลั่งเลือดพยัคฆ์ ปัจฉิมบทชำระแค้น",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Bleeding-Tiger-Resolution-2025-หลั่งเลือดพยัคฆ์-ปัจฉิมบทชำระแค้น.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/5394940819df9d19a2b459a7/7369.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Frequency (2000) เจาะเวลาผ่าความถี่ฆ่า",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/08/Frequency-2000-เจาะเวลาผ่าความถี่ฆ่า.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/60d497a90ef702608ae7a1b9/4537.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/3ca488ed7bcbb609ab1fb4bb/8413.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Go For Grandma (2025) ยายทราบแล้วเปลี่ยน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Go-For-Grandma-2025-ยายทราบแล้วเปลี่ยน.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/84e4ded6b6cf44a54f8f7de0/2800.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "People We Meet on Vacation (2026) เราพบกัน ณ วันพักใจ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/People-We-Meet-on-Vacation-2026-เราพบกัน-ณ-วันพักใจ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/a10e25e10c58f7c82fbea966/6932.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/c4c52d2d939c070ab50e368e/4094.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Wicked For Good (2025) วิคเค็ด ภาค 2",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/12/Wicked-For-Good-2025.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/bebe6dda8be5d6b46f18b798/8676.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/0448e0df0bf82eabbb4f5a6a/9406.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Good Boy (2025) มะหมาเห็นผี",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/10/Good-Boy-2025-มะหมาเห็นผี.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/e7714bf094174b6966ceba6b/6640.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Breast Friends Forever (2026)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Breast-Friends-Forever-2026.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/a5042c5443180ee04054b1f0/5286.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "A Babysitter's Guide to Monster Hunting (2020) คู่มือล่าปีศาจฉบับพี่เลี้ยง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/A-Babysitters-Guide-to-Monster-Hunting-2020-คู่มือล่าปีศาจฉบับพี่เลี้ยง.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/3c318fd475b55aa9fd66ee92/8779.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/ed072b57402c7bcda6546f8e/3356.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Wildcat (2025) ไวลด์แคท สวยต้องปล้น",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Wildcat-2025-ไวลด์แคท-สวยต้องปล้น.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/8f588dc6d0795320135c6f88/2190.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nuremberg (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Nuremberg-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/6b62f3305960248d26984c60/5980.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Memori (2025) ความทรงจำ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Memori-2025-ความทรงจำ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/85483952326983d1bc839add/7239.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tron Ares (2025) ทรอน แอรีส",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/10/Tron-Ares-2025-ทรอน-แอรีส.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/645abf56072d4cc3e89ebaff/3314.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/d3be27b7ac40f10872c88f7d/3082.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Long Walk (2025) เกมเดินมรณะ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/10/The-Long-Walk-2025-เกมเดินมรณะ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/b8168869f31c4f5bbc47a9e2/7173.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Gowok Javanese Kamasutra (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Gowok-Javanese-Kamasutra-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/0b82535be76543257c420a82/3499.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
