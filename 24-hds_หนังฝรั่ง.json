@@ -235,5 +235,341 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Out Standing (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/04/Out-Standing-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/b0e0156aade51f490b74a996/7785.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Apex (2026) ห่วงโซ่สังหาร",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/04/Apex-2026-ห่วงโซ่สังหาร.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/7678c945bd39a860ffeb5a55/1062.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/0520cb8ce434b191570b68e2/2987.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lee Cronins The Mummy (2026) ลี โครนิน เดอะ มัมมี่",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/04/Lee-Cronins-The-Mummy-2026-ลี-โครนิน-เดอะ-มัมมี่.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/2d1a2ce75f9708a55fb3f592/3657.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Reminders of Him (2026) ร่องรอยรัก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/04/Reminders-of-Him-2026-ร่องรอยรัก.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/20ee2995e321cca92dcdbea5/1622.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Infiltrate (2026)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/04/Infiltrate-2026.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/656daa81ac5bf280795e7246/1611.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "On Swift Horses (2025) เกมรักซ้อนเงา",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/On-Swift-Horses-2025-เกมรักซ้อนเงา.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/b276680d0c70202fbff1b05f/1260.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Penguin Lessons (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/The-Penguin-Lessons-2024.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/17789d62b9b69a5526b19087/3552.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Front Room (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/04/The-Front-Room-2024.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/6e3b82bd539d9ada0d802195/3197.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Project Hail Mary (2026) ภารกิจกู้สุริยะ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/03/Project-Hail-Mary-2026-ภารกิจกู้สุริยะ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/f8a32c0de31f32d933c15441/7726.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/c2c63a7f870ee6bc5ed58e79/3036.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ballistic (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/04/Ballistic-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/e36688f619cd4f0347091c80/7736.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Burning Betrayal (2023) ไฟทรยศ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/10/Burning-Betrayal-2023-ไฟทรยศ.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/56a7eaf78968182f79d3592d/9924.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/84362f5bd24787644bc67675/6164.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Bride! (2026) เจ้าสาว!",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/04/The-Bride-2026-เจ้าสาว.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/6a8244bfba282e4e3915b959/5029.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Regretting You (2025) รอยรักปมร้าว",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/04/Regretting-You-2025-รอยรักปมร้าว.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/8128b13fe62308be66cd2557/8846.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/3d071698a277b9836056ef56/8096.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "180 (2026)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/04/180-2026.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/8e0a69e908fbf3b5b3d4f1a5/3016.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/67acdddd57051ed801254ac9/2363.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "A Gorilla Story (2026) เล่าเรื่องกอริลลา โดยเดวิด แอทเทนเบอเรอห์ เซอร์เดวิด",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/04/A-Gorilla-Story-2026-เล่าเรื่องกอริลลา-โดยเดวิด-แอทเทนเบอเรอห์.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/9dbd35464ecf59fc718ad818/9566.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/ca8bf51efb8ac1f3f2246000/6604.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Roommates (2026) รูมเมท",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/04/Roommates-2026-รูมเมท.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/16ed5de55aee796b8d60a4a5/5569.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/675b863202d0e42a31c5efbc/3531.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Boys Season 5 (2026) ก๊วนหนุ่มซ่าล่าซูเปอร์ฮีโร่ ซีซั่น 5",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/04/The-Boys-Season-4-2024-ก๊วนหนุ่มซ่าล่าซูเปอร์ฮีโร่.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/663723f2f8f5726d4a2eddfd/7708.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/65ce16099d665d7281b30dfa/2960.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Boys Season 4 (2024) ก๊วนหนุ่มซ่าล่าซูเปอร์ฮีโร่",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/04/The-Boys-Season-4-2024.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/847439566daa2a05e244ddd9/4951.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/05d2833234e0684951e8e11a/7405.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Balls Up (2026)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/04/Balls-Up-2026.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/ddc66d94840facf06ff4d5ee/2723.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Yeti (2026)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/04/The-Yeti-2026.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/1d7e0120d416c6f91652da6f/5300.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
