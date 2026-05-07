@@ -2939,5 +2939,361 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Red Dot (2021) เป้าตาย",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/Red-Dot-2021-เป้าตาย.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/efbbba94fbc8ccd0c8092ba4/4838.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Article 370 (2024) มาตรา 370",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/05/Article-370-2024-มาตรา-370-1.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/23490e0f98edc321af7e5e37/7034.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Monster Island (2024) เกาะอสูร",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/Monster-Island-2024-เกาะอสูร.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/d97b939af3554f0d4ae0a499/9329.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Another Simple Favor (2025) เพื่อนหาย อย่าหา 2",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/Another-Simple-Favor-2025-เพื่อนหาย-อย่าหา-2.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/39367f844594cf54f004da01/5151.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/b362c1e809392afc2400882c/3945.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Wall to Wall (2025) ฝันร้าย 84 ตร.ม.",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/Wall-to-Wall-2025-ฝันร้าย-84-ตร.ม.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/c8ae1ab1a0b039950b4d47fa/2910.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/0cd30c26ac4b81f3f00ea267/8030.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Almost Family (2025) กว่าจะเป็นครอบครัว",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/Almost-Family-2025-กว่าจะเป็นครอบครัว.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/ea00d121ea66dcb21a16ceb5/2907.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trainwreck Balloon Boy (2025) อภิมหาวายป่วง บอลลูนบอย",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/Trainwreck-Balloon-Boy-2025-อภิมหาวายป่วง-บอลลูนบอย.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/ee304153a968664f747ef068/5992.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/0f709b1d2f6ccf1a86fb6c38/5921.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Apocalypse in the Tropics (2025) วันสิ้นโลกในเขตร้อน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/Apocalypse-in-the-Tropics-2025-วันสิ้นโลกในเขตร้อน.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/383eda1b36bdfb598789b6af/4156.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Almost Cops (2025) คู่สืบ​ คู่อันตราย",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/Almost-Cops-2025-คู่สืบ​-คู่อันตราย.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/8f132034d7c3f07cb8007210/2245.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/938adec2dc35796ddb968c2a/3737.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Madea's Destination Wedding (2025) ป้าลุยแหลกแหกวิวาห์ป่วน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/Madeas-Destination-Wedding-2025-ป้าลุยแหลกแหกวิวาห์ป่วน.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/e284c1e39a3ebca769be802e/2151.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/f9e8d249f44f1c6ddf9700b4/7294.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Aap Jaisa Koi (2025) ใครสักคนที่เหมือนเธอ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/Aap-Jaisa-Koi-2025-ใครสักคนที่เหมือนเธอ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/6cbf4bf084bc4b13607cf56f/4542.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/677f8089aee6efa1c363e5c8/5533.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Brick (2025) กำแพง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/Brick-2025-กำแพง.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/cd28c324efab4b80320b8c0f/5834.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "K.O. (2025) น็อกเอาท์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/06/K.O.-2025-น็อกเอาท์.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/550763acbd3c0aa0b4e6340c/7851.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/6561d7a481b76a9061042ab6/1039.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Emilia Perez (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/01/Emilia-Perez-2024.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/97cf5053f07495d2e1a2c6dd/6139.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/658d29c974c3d92ddd2c27b0/3487.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trainwreck The Real Project X (2025) อภิมหาวายป่วง คืนซ่าส์ปาร์ตี้หลุดโลกของจริง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/Trainwreck-The-Real-Project-X-2025-อภิมหาวายป่วง-คืนซ่าส์ปาร์ตี้หลุดโลกของจริง.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/5f1df47e197133486fc45c16/6632.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/00e5f0f6d6be3708ea38b7a8/6907.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Old Guard 2 (2025) ดิ โอลด์ การ์ด 2",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/The-Old-Guard-2-2025-ดิ-โอลด์-การ์ด-2.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/623a7aafd6df870d86015d7d/1080.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/de55dbe20adaffff152bfab0/2205.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Old Guard (2020) ดิ โอลด์ การ์ด",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/The-Old-Guard-2020-ดิ-โอลด์-การ์ด.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/9e8755305fd7e9bbe9a8d327/5710.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/37e5bfe71178af0129077903/8188.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Shark Whisperer (2025) คนรักษ์ฉลาม",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/Shark-Whisperer-2025-คนรักษ์ฉลาม.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/e2f9ed74205adc69f400230d/8908.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/7158522151e9826cde5bfc19/3307.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Afraid (2024) เอไอ สั่งสยอง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/Afraid-2024-เอไอ-สั่งสยอง.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/38062ce2fcf758d21b365786/3280.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/aa14e9ce9c7ea09af9de3a09/9859.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Squid Game Season 3 (2025) สควิดเกม เล่นลุ้นตาย 3",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/06/Squid-Game-Season-3-2025-สควิดเกม-เล่นลุ้นตาย-3.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/391756cae470136a63faa435/5617.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/552cd91dfc117e4518f76221/8559.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
