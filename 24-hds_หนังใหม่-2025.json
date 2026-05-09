@@ -11722,5 +11722,24 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Ad Vitam (2025) ปฏิบัติการเพื่อชีวิต",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/01/Ad-Vitam-2025-ปฏิบัติการเพื่อชีวิต.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/b033dd41b3e53faa460dc71e/2512.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/35abe7a2a92132045304a859/7408.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
